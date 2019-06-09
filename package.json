@@ -1,0 +1,19 @@
+{
+  "name": "schedule-web-tasks",
+  "version": "1.0.0",
+  "description": "This project helps Users schedule and automate repeatitive tasks like booking meeting rooms, submiting attendance which require a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkasinha/schedule-web-tasks.git"
+  },
+  "author": "Arka Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkasinha/schedule-web-tasks/issues"
+  },
+  "homepage": "https://github.com/arkasinha/schedule-web-tasks#readme"
+}
